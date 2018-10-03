@@ -16,6 +16,7 @@ object. **In misère play, the goal is instead to ensure that the opponent is fo
 
 ## Single Heap Nim
 
+This is a test line, please ignore.
 
 In our Case we have just a single Heap :
 
