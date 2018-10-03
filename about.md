@@ -16,6 +16,7 @@ object. **In misère play, the goal is instead to ensure that the opponent is fo
 
 ## Single Heap Nim
 
+
 In our Case we have just a single Heap :
 
   1. We start with any number of objects (Matchsticks) but minimum 10 is a fair play number.
